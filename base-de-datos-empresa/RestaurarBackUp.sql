@@ -1,0 +1,26 @@
+USE [master]
+GO
+
+/****** Object:  StoredProcedure [dbo].[RestaurarBackUp]    Script Date: 10/06/2015 01:42:22 p.m. ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE [dbo].[RestaurarBackUp]
+@NombreArchivo VARCHAR(1000)
+AS
+BEGIN
+ALTER DATABASE [BDEmpresa]
+SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+RESTORE DATABASE [BDEmpresa]
+FROM DISK = @NombreArchivo
+WITH FILE = 1
+ALTER DATABASE [BDEmpresa]
+SET MULTI_USER WITH ROLLBACK IMMEDIATE
+END;
+
+GO
+
+

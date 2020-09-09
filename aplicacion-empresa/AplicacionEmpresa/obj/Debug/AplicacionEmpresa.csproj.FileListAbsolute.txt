@@ -1,0 +1,26 @@
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.exe.config
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.exe
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.pdb
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Debug\CapaPresentacion.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\bin\Debug\CapaPresentacion.pdb
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csprojResolveAssemblyReference.cache
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.Properties.Resources.resources
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csproj.GenerateResource.Cache
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.exe
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.exe.config
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.exe
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\AplicacionEmpresa.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaPresentacion.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaNegocio.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaDatos.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaPresentacion.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaNegocio.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\bin\Debug\CapaDatos.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csprojAssemblyReference.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.Properties.Resources.resources
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csproj.GenerateResource.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.csproj.CopyComplete
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.exe
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\AplicacionEmpresa\obj\Debug\AplicacionEmpresa.pdb

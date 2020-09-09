@@ -1,0 +1,11 @@
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaDatos\obj\Debug\CapaDatos.pdb

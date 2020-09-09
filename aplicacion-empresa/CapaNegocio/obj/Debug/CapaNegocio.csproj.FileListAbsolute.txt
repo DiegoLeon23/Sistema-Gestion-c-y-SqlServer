@@ -1,0 +1,16 @@
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HernánMartín\Desktop\Proyecto\AplicacionEmpresa\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Diego León\Desktop\sistema-de-gestion-terminado\aplicacion-empresa\CapaNegocio\obj\Debug\CapaNegocio.pdb
