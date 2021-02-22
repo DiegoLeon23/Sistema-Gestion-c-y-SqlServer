@@ -1,2 +1,2 @@
-# sistema-de-gestion-terminado
-Sistema de Gestión desarrollado en C#. NET y SQL Server.
+# sistema-de-gestion Empresarial-en Proceso
+Sistema de Gestión Empresarial usando C#, .net y Sql Server
