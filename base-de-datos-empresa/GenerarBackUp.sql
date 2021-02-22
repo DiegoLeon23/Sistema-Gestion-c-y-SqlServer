@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  StoredProcedure [dbo].[GenerarBackUp]    Script Date: 10/06/2015 01:41:33 p.m. ******/
+
 SET ANSI_NULLS ON
 GO
 
