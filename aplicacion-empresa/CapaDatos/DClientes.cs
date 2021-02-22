@@ -5,7 +5,8 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//requiere modificaciones para obtener clientes de la DB
+//modificacion de llamado de STORE PROCEDURES VentaClientes de  tabla Clientes 
 namespace CapaDatos
 {
     public class DClientes

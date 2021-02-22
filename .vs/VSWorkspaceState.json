@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
+    "",
     "\\aplicacion-empresa",
-    "\\aplicacion-empresa\\CapaDatos"
+    "\\aplicacion-empresa\\AplicacionEmpresa",
+    "\\aplicacion-empresa\\CapaDatos",
+    "\\aplicacion-empresa\\CapaNegocio",
+    "\\aplicacion-empresa\\CapaPresentacion"
   ],
+  "SelectedNode": "\\aplicacion-empresa\\CapaDatos\\DClientes.cs",
   "PreviewInSolutionExplorer": false
 }
