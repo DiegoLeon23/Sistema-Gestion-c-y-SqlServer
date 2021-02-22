@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  StoredProcedure [dbo].[RestaurarBackUp]    Script Date: 10/06/2015 01:42:22 p.m. ******/
+
 SET ANSI_NULLS ON
 GO
 
